@@ -1,0 +1,9 @@
+coverage
+node_modules
+coverage/
+lib
+.idea*
+.npmrc
+yarn-error.log
+package-lock.json
+.env
